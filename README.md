@@ -4,4 +4,4 @@ _Building software for the Urbit network_
 
 [Email](waltyr-dacmus@tacittech.org)
 
-[Urbit](web+urbitgraph://group/~waltyr-dacmus/tacit-technologies/)
+Urbit: `web+urbitgraph://group/~waltyr-dacmus/tacit-technologies`
