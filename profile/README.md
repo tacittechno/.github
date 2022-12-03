@@ -1,7 +1,5 @@
 # Tacit Technologies
 
-_Building software for the Urbit network_
+A software company
 
-[Email](waltyr-dacmus@tacittech.org)
-
-Urbit: `web+urbitgraph://group/~waltyr-dacmus/tacit-technologies`
+[Email](charlie@tacittech.org)
